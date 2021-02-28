@@ -1,10 +1,9 @@
 # Platform independent library for the ST7735S IPS display
------
 **see st7735s_settings.h list of supported displays* <br>
 *`-0.96" IPS mini 160x80` <br> `-1.44" display 128x128` <br> `-WaveShare ST7735S-based 1.8" display 160x128` <br> `-AliExpress/eBay 1.8" display 160x128`*
 
-## How to generate Fonts and Pict
------
+## How to generate new fonts and pictures 
+---------------------
 To generate fonts, you can use a cross-platform(Win, Linux) program [LCD-Image-Converter](https://github.com/riuson/lcd-image-converter) <br>
 MacOS patched version [LCD-Image-Converter MacOS](https://github.com/cvetaevvitaliy/lcd-image-converter_MacOs) <br>
 
@@ -15,7 +14,7 @@ Web pages
 
 
 ## How to use library
-------
+---------------------
 
 Add include 
 ```c
