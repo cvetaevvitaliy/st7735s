@@ -39,7 +39,9 @@ LCD_ST7735_ctx_t LCD_ST7735 = {
 };
 ```
 
-example function for write data to SPI and GPIO
+example function for write data to SPI and GPIO (STM32 HAL library) <br>
+You can use any microcontrollers or even Linux user-space, it's all up to you
+
 
 ```c
 uint8_t SPI_Transmit(uint8_t *pData, uint16_t Size)
