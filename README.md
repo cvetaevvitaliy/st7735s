@@ -2,6 +2,11 @@
 **see st7735s_settings.h list of supported displays* <br>
 *`-0.96" IPS mini 160x80` <br> `-1.44" display 128x128` <br> `-WaveShare ST7735S-based 1.8" display 160x128` <br> `-AliExpress/eBay 1.8" display 160x128`*
 
+Library has support:
+- rotation display, 0, 90, 180, 270
+- Picture scroll
+- Scroll area
+
 ## How to generate new fonts and pictures 
 ---------------------
 To generate fonts, you can use a cross-platform(Win, Linux) program [LCD-Image-Converter](https://github.com/riuson/lcd-image-converter) <br>
